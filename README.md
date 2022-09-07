@@ -1,9 +1,9 @@
 # Multivariate-Analysis-for-Particle-Discrimination
 
-We present rigorous analytical comparisons among a series of MVA algorithms for particle identification. 
+This repository presents rigorous analytical comparisons among a series of MVA algorithms for particle identification. 
 
 Dataset used:
-The project is based on the MiniBooNE dataset, which is commonly used to discriminate between electron neutrinos and muon neutrinos. 
+The project is based on the MiniBooNE dataset, which is used to discriminate between electron neutrinos and muon neutrinos. 
 
 Algorithmic techniques used:
 The algorithms utilize a variety of techniques, including BDTs, ANNs and KNN, to identify particles with a high degree of accuracy.
